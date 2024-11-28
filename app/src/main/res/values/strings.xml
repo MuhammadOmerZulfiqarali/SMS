@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="sending_amp_receiving_sms_login_page"><![CDATA[Sending & Receiving Sms Login Page]]></string>
+    <string name="enter_user_email">Enter User Email</string>
+    <string name="message">Message</string>
+
+</resources>

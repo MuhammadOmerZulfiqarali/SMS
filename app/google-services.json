@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559511589024",
+    "project_id": "sending-and-receiving-sms",
+    "storage_bucket": "sending-and-receiving-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559511589024:android:5514130579165c4bf339c5",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTcJwQexRCD5S8eHcrokBqkYxIanm2bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
